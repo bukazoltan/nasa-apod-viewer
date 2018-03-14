@@ -1,0 +1,22 @@
+img {
+    width: 500px;
+    height: 500px;
+}
+
+p {
+    width: 700px;
+    text-align: center;
+    margin: 5px auto;
+    font-size: 1.5em
+}
+
+.picInfo {
+    border: 3px solid;
+    display: inline-block;
+    padding: 5px;
+}
+
+.pictureCard {
+    padding: 5px;
+    
+}
