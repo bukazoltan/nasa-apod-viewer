@@ -1,6 +1,8 @@
 # nasa-apod-viewer
 ## A quick way of getting every and any NASA Picture of the Day.
 
+[Information on the NASA API](https://api.nasa.gov/)
+
 Current version:
 * The page loads the current Picture of the Day with meta-information.
 * Basic styling
