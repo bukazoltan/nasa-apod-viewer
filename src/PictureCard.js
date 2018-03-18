@@ -12,6 +12,10 @@ const PictureCard = ({copyright, date, explanation, title, url, hdurl}) => {
              </div>
         </div>
     );
+
+    const getType = function() {
+    //checks whether it's an img or a youtube embed
+    }
 }
 
 export default PictureCard;
